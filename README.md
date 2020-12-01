@@ -27,5 +27,7 @@ proposta de solução:
   E pelo lado do cliente será responsável por: 
 - Consulta de preços
 - Pedidos 
+
+  Assim o app poderá ser utilizado tanto pelo cliente quanto pelo autônomo com intuito de facilitar a comunicação entre eles, tendo assim uma melhor experiencia. 
  
 
