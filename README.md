@@ -26,7 +26,9 @@ O vendedor também poderá gerar métricas que irão auxiliar nas tomadas de dec
   
   # Referencias: 
   Desemprego: https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/10/30/pnad-continua---taxa-de-desemprego.htm#:~:text=Desemprego%20chega%20a%2014%2C4,%2F10%2F2020%20-%20UOL%20Economia
+	
 Trabalhadores autonomo: https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/10/30/pnad-continua---taxa-de-desemprego.htm#:~:text=Desemprego%20chega%20a%2014%2C4,%2F10%2F2020%20%2D%20UOL%20Economia
+
 Uso de Internet: https://agenciabrasil.ebc.com.br/economia/noticia/2020-04/celular-e-o-principal-meio-de-acesso-internet-no-pais
 
   
