@@ -16,10 +16,13 @@ proposta de solução:
   Até o ano passado, três em cada quatro brasileiros tinham acesso à internet e, entre eles, o celular era o equipamento mais usado. Entre 2017 e 2018, o percentual de pessoas que acessaram a internet pelo celular passou de 97% para 98,1%. O aparelho é usado tanto na área rural, por 97,9% daqueles que acessam a internet, quanto nas cidades, por 98,1%.
 
   Desta forma, e para auxiliar os profissionais autônomos, será desenvolvido um aplicativo que será responsável por : 
+  
   -Gerenciar pedidos
   -Divulgação de promoções
   -Histórico de Pedidos 
+  
   O vendedor também poderá gerar métricas que irão auxiliar nas tomadas de decisão, como:
+  
   -Total de pedidos
   -Item mais vendido 
   -Cliente com mais pedidos
