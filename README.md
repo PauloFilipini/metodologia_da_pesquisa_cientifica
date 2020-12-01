@@ -34,7 +34,7 @@ proposta de solução:
   Referencias: 
   Desemprego: https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/10/30/pnad-continua---taxa-de-        desemprego.htm#:~:text=Desemprego%20chega%20a%2014%2C4,%2F10%2F2020%20%2D%20UOL%20Economia
   
-  Trabalhadores autonomo: https://agenciabrasil.ebc.com.br/economia/noticia/2019-06/trabalhadores-autonomos-somam-24-milhoes-no-pais-diz-ibge#:~:text=O%20n%C3%BAmero%20%C3%A9%201%2C4,s%C3%A9rie%20hist%C3%B3rica%2C%20iniciada%20em%202012.
+  Trabalhadores autonomo: https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2020/10/30/pnad-continua---taxa-de-desemprego.htm#:~:text=Desemprego%20chega%20a%2014%2C4,%2F10%2F2020%20%2D%20UOL%20Economia
   
   Uso de Internet: https://agenciabrasil.ebc.com.br/economia/noticia/2020-04/celular-e-o-principal-meio-de-acesso-internet-no-pais
   
