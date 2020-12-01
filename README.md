@@ -1,7 +1,7 @@
 # metodologia_da_pesquisa_cientifica
 Projeto para matéria de Metodologia da Pesquisa cientifica
 
-Problema: Perda de dinheiro, seja por motivos do cliente perde o telefone ou fazer o pedido em cima da hora;
+Problema: Perda de dinheiro, seja por motivos do cliente perde o contato do autonomo ou por fazer o pedido em cima da hora;
 
 
 Motivação: 
