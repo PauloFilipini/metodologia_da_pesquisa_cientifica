@@ -18,13 +18,17 @@ proposta de solução:
   Desta forma, e para auxiliar os profissionais autônomos, será desenvolvido um aplicativo que será responsável por : 
   
   -Gerenciar pedidos
+  
   -Divulgação de promoções
+  
   -Histórico de Pedidos 
   
   O vendedor também poderá gerar métricas que irão auxiliar nas tomadas de decisão, como:
   
   -Total de pedidos
+  
   -Item mais vendido 
+  
   -Cliente com mais pedidos
 
   E pelo lado do cliente será responsável por: 
