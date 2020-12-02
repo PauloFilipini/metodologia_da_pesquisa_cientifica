@@ -11,7 +11,7 @@ Projeto para matéria de Metodologia da Pesquisa cientifica
   Além de prezar pela alta qualidade, um dos fatores mais importantes é o investimento em tecnologias, como apps e sites, que possam, além de divulgar o produto vendido, mostrar opções de compra e realizar efetivamente uma venda ao cliente. 
   Atualmente, com a pandemia que o Brasil e o Mundo enfrentam, as pessoas tendem a consumir produtos entregues por delivery, aumentando a oferta e procura. Desta forma, é necessário que o empreendedor esteja atualizado e utilize as tecnologias a seu favor, para que possa, além de vender um produto de qualidade, oferecer praticidade e segurança ao cliente.
   
-proposta de solução: 
+## proposta de solução: 
 
   Até o ano passado, três em cada quatro brasileiros tinham acesso à internet e, entre eles, o celular era o equipamento mais usado. Entre 2017 e 2018, o percentual de pessoas que acessaram a internet pelo celular passou de 97% para 98,1%. O aparelho é usado tanto na área rural, por 97,9% daqueles que acessam a internet, quanto nas cidades, por 98,1%.
   Desta forma, e para auxiliar os profissionais autônomos, será desenvolvido um aplicativo que será responsável por:
